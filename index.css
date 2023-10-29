@@ -76,3 +76,10 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.disclaimer {
+  font-size: 10px;
+  color: #d5d4d8;
+  font-family: "Inter";
+  margin-top: 16px;
+}
